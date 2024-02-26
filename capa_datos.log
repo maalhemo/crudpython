@@ -1,0 +1,3 @@
+02:47:22 PM: ERROR [conexion.py:26] Ocurrió una excepción al obtener la conexión: 
+02:47:43 PM: DEBUG [conexion.py:23] Conexión exitosa: <connection object at 0x00D473F0; dsn: 'user=postgres password=xxx dbname=test_db host=127.0.0.1 port=5432', closed: 0>
+02:47:43 PM: DEBUG [conexion.py:36] Se abrió correctamente el cursor: <cursor object at 0x01B5D938; closed: 0>
